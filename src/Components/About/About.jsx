@@ -34,7 +34,7 @@ export default function About() {
         <h1 className="font-serif tracking-widest font-bold">WHO AM I?</h1>
         <p className="text-gray-400 font-sans">
           <span className="font-medium text-gray-600 font-sans">
-            Hi, I'm Mohamed Reda
+            Hi, I'm Marwa Gamal
           </span>{" "}
           On her way she met a copy. The copy warned the Little Blind Text, that
           where it came from it would have been rewritten a thousand times and

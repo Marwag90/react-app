@@ -66,7 +66,7 @@ export default function Navbar() {
           />
           <div className="absolute top-2 right-6 lg:hidden"  onClick={()=>setIsSidebarOpen(false)}><i className="fa-solid fa-x cursor-pointer"></i></div>
           <div className="text-center mb-10">
-            <p className="text-2xl font-serif font-bold">Mohamed Reda</p>
+            <p className="text-2xl font-serif font-bold">Marwa Gamal</p>
             <p className="font-thin text-xs text-gray-400">
               <span className="text-blue-300">FRONTEND DEVELOPER</span> IN EGYPT
             </p>

@@ -12,7 +12,7 @@ export default function Home() {
         <div className={`${style.img1} flex flex-col h-full justify-center `}>
           <h1 className="text-4xl lg:text-6xl font-bold font-serif text-center sm:text-center lg:text-start mb-5 lg:pl-[15%]">
             Hi!<hr className="opacity-0"/>
-            I'm mohamed
+            I'm Marwa
           </h1>
           <p className=" mb-5 text-center lg:pl-[15%] sm:text-center lg:text-start">
             100% react tailwind templates Made<hr className="opacity-0"/>
